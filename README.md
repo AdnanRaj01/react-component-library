@@ -105,7 +105,7 @@ Storybook integration
 
 Theme provider with Context API
 
-Publish as npm package
+Publish as an npm package
 
 Unit testing with Jest
 
@@ -117,3 +117,11 @@ Front-End Developer
 📄 License
 
 This project is open-source and available under the MIT License.
+## 🎥 Project Demo
+
+This video demonstrates:
+- Button component usage
+- Card component rendering
+- Modal interaction
+
+👉 [Watch Full Demo](https://drive.google.com/file/d/19pToLZ6k4cqrhjsBDiqFoY_Msqk1O8yb/view?usp=sharing)
